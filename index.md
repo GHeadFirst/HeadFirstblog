@@ -40,3 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   -Learning Objectives:
     1- Learn Destructuring in JavaScript
     2- Learn how markdown works
+    
+  Learned a lot about destructuring in JS and how effective it is. Also learned about using the ... (spread operator) which is very helpful in dealing with various arrays and forming new arrays from elements in a previous array. I also learned about how to use destructuring in objects, and how to set default values and their use case. Overall a decent day
+    
