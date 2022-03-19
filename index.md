@@ -9,7 +9,7 @@
   Learned a lot about destructuring in JS and how effective it is. Also learned about using the ... (spread operator) which is very helpful in dealing with various arrays and forming new arrays from elements in a previous array. I also learned about how to use destructuring in objects, and how to set default values and their use case.
   
   -Challenges
-  1. Ran into a bug regarding destructuring in Objects and mutating the variables, where my code would result into an error.
+  1. Ran into a bug regarding destructuring in Objects and mutating the variables, where my code would result into an error.\
   How I overcame this problem:
   ```
   // Mutating variables
