@@ -37,9 +37,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## Blog 1
-  -Learning Objectives:
-    1- Learn Destructuring in JavaScript
-    2- Learn how markdown works
+  -Learning Objectives:\
+    1. Learn Destructuring in JavaScript\
+    2. Learn how markdown works
     
   Learned a lot about destructuring in JS and how effective it is. Also learned about using the ... (spread operator) which is very helpful in dealing with various arrays and forming new arrays from elements in a previous array. I also learned about how to use destructuring in objects, and how to set default values and their use case. Overall a decent day
     
