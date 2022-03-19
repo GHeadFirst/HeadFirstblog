@@ -11,7 +11,7 @@
   -Challenges
   1. Ran into a bug regarding destructuring in Objects and mutating the variables, where my code would result into an error.\
   How I overcame this problem:
-  ```
+  ```markdown
   // Mutating variables
 let a = 111;
 let b = 999;
